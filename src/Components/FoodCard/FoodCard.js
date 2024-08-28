@@ -11,7 +11,7 @@ function FoodCard({imgUrl,title,description,isveg,price}) {
       <img src={imgUrl}  className='card-img'/>
       <h1 className='title' style={{color:THEME.highlight,margin:0,padding:0}}>{title}</h1>
        <p>{description}</p>
-       <img  className="food-card-icon"  src={isveg ? vegIcon :nonvegIcon}  alt="icon"/>
+       
        {
          price ?
           <p className='price'>
