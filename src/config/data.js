@@ -1,4 +1,19 @@
-const foods=[
+
+const MAIN_TITLE="Sai Restaurent 👩‍🍳"
+const TAGLINE="A1 Restaurent in town  🦋"
+
+const THEME={
+    main:"#eff0f3",
+    highlight:"#ff8e3c",
+    secondary:"#ff5e78",
+    tertiary:"#d9376e",
+    dark:"#0d0d0d"
+}
+
+
+
+
+const FOODS=[
     {
      imgUrl:" https://img.freepik.com/free-photo/flat-lay-noodles-with-vegetables-chicken_23-2148377422.jpg?uid=R159919239&ga=GA1.2.193610337.1706629290&semt=ais_hybrid ",
      title:"Noodles" ,
@@ -31,4 +46,4 @@ const foods=[
 ]
 
 export{
-    foods}
+    FOODS ,MAIN_TITLE, TAGLINE,THEME}
