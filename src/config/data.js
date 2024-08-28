@@ -37,9 +37,9 @@ const FOODS=[
         price:120
     },
     {
-        imgUrl:"https://img.freepik.com/premium-photo/plate-french-fries-ketchup-with-ketchup-ketchup_1270925-2088.jpg?uid=R159919239&ga=GA1.2.193610337.1706629290&semt=ais_hybrid  ",
-        title:"potato Fries" ,
-        description:"french fries, side dish or snack typically made from deep-fried potatos",
+        imgUrl:"https://as2.ftcdn.net/v2/jpg/02/09/04/89/1000_F_209048961_MjFyOSlU3crWZf6nutuEJf3HGXqRzAZC.jpg  ",
+        title:"Cream Roll" ,
+        description:" They are delicious, crisp, and always fresh.",
         isveg:true,
         price:50
     }
